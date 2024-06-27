@@ -12,7 +12,7 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
 
 <details>
   <summary>Show Specialization Certificate</summary>
-       <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/fda10fdb-1114-4063-9672-53520c97bd7e">
+       <img src="./src/assets/Certificate_Completion_TensorFlow_Advanced_Techniques_Stefanus_Bernard_Melkisedek.png">
   </details>
 
 ## Contents
@@ -92,12 +92,6 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
   | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/188b1561-c55f-4df3-9a36-0b54ce7b9e1c" width="75px" height="75px">](https://www.linkedin.com/in/laurence-moroney/) <br> [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/) | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/5c34946f-f8e1-4716-8304-693064daa23a" width="75px" height="75px">](https://www.linkedin.com/in/eddy-shyu/) <br> [Eddy Shyu](https://www.linkedin.com/in/eddy-shyu/) |
 | --- | --- |
 | Lead AI Advocate, Google | Product Lead, DeepLearning.AI |
-
-## Certificate of Completion
-
-<p align='center'>
-    <img src="./src/assets/Certificate_Completion_TensorFlow_Advanced_Techniques_Stefanus_Bernard_Melkisedek.png"></img>
-</p>
 
 ---
 ⛳
