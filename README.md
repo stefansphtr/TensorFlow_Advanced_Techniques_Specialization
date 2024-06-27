@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="#">
+    <img src="https://badges.pufler.dev/visits/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/updated/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Updated Badge">
+    <img src="https://badges.pufler.dev/created/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Created Badge">
+    <img src="https://img.shields.io/github/contributors/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Contributors Badge">
+    <img src="https://img.shields.io/github/last-commit/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Last Commit Badge">
+    <img src="https://img.shields.io/github/commit-activity/m/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Commit Activity Badge">
+    <img src="https://img.shields.io/github/repo-size/stefansphtr/TensorFlow_Advanced_Techniques_Specialization" alt="Repo Size Badge">
+  </a>
+</p>
+
 # DeepLearning.AI-TensorFlow-Advanced-Techniques
 
 My Assignment and quiz submissions for **DeepLearning.AI TensorFlow: Advanced Techniques specialization**
